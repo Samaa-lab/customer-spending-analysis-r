@@ -127,7 +127,7 @@ customer-spending-analysis-r/
 │   └── Mall_Customers_Enhanced.csv
 │
 ├── scripts/
-│   └── Final_Project.R
+│   └── MLR Project script.R
 │
 ├── reports/
 │   └── Customer_Spending_Analysis_Report.pdf
